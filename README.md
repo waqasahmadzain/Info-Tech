@@ -6,6 +6,6 @@
 -so get ready for hacking
 
 <!---
-kinghacker125/kinghacker125 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+itxwaqasahmadzain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
